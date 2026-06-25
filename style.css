@@ -59,6 +59,11 @@
   box-shadow:0 20px 40px rgba(4,40,69,0.12);
 }
 
+#services{
+    background-image: url("services-bg.jpg");
+    padding: 50px;
+}
+
         /* Forms */
         .contact-section { background: white; padding: 40px; border-radius: 20px; margin-top: 40px; }
         .form-group { margin-bottom: 15px; }
