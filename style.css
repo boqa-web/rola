@@ -70,6 +70,14 @@
                     overflow: hidden;
 }
 
+.service-card h3{
+    color:#CEB6AB;
+}
+
+.service-card p{
+    color:#CEB6AB;
+}
+
 .service-card:hover,
 .stat-item:hover{
     transform: translateY(-8px);
